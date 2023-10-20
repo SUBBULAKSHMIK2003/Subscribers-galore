@@ -10,3 +10,7 @@ https://public.tableau.com/shared/T6G697C46?:display_count=n&:origin=viz_share_l
 Video Demonstration link
 https://drive.google.com/file/d/1N6m1YZZcRmE0_PsjFJh6LjduF867esFx/view?usp=drivesdk
 
+Report documentation
+https://docs.google.com/document/d/1NDeWdidhuZvCC6vpBrOjt60aCD2nMoa1/edit?usp=drivesdk&ouid=105728917923174299012&rtpof=true&sd=true
+
+
